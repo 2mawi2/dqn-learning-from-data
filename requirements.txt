@@ -1,0 +1,5 @@
+keras
+gym
+gym[atari]
+tensorflow
+numpy
